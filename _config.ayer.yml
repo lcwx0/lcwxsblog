@@ -215,7 +215,7 @@ gitalk:
 # 3、Twikoo(https://github.com/imaegoo/twikoo)
 twikoo:
   enable: true
-  envId: #
+  envId: https://blog-comment-lcwx0.vercel.app
 
 # 4、MiniValine
 # See: https://github.com/MiniValine/MiniValine
