@@ -10,7 +10,7 @@ date: 2022-08-26 09:20:52
 
 ###### 姓名：灵晨无邪
 ###### 现居：长沙
-###### github：[ <kbd> lcwx0 </kbd> ][github]
+###### github：[lcwx0][github]
 ###### QQ：2691209217
 <img src="http://pic.imgdb.cn/item/6309669816f2c2beb145f8f8.png" width="50%">
 
