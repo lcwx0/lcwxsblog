@@ -4,14 +4,14 @@ date: 2022-08-26 09:20:52
 ---
 [github]: https://github.com/lcwx0
 
-[rosmontis]: https://pic.imgdb.cn/item/6309669816f2c2beb145f8f8.png
+[rosmontis]: http://pic.imgdb.cn/item/6309669816f2c2beb145f8f8.png
 > ## 一个普通~~（或将退役）~~的oier
-> ##### >*may just a normal developer*
+> ##### *may just a normal developer*
 
 ###### 姓名：灵晨无邪
 ###### 现居：长沙
 ###### github：[<kbd>lcwx0</kbd>][github]
 ###### QQ：2691209217
-![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)
+![](http://pic.imgdb.cn/item/6309669816f2c2beb145f8f8.png)
 
 *I love Rosmontis forever!*
