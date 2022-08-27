@@ -14,5 +14,5 @@ date: 2022-08-26 09:20:52
 ###### QQ：2691209217
 
 
-![rosmontis 图标](https://sm.ms/image/iK3aCqUPdswreFI)
+![](https://sm.ms/image/iK3aCqUPdswreFI)
 *I love Rosmontis forever!*
