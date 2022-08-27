@@ -12,6 +12,6 @@ date: 2022-08-26 09:20:52
 ###### 现居：长沙
 ###### github：[<kbd>lcwx0</kbd>][github]
 ###### QQ：2691209217
-![](http://pic.imgdb.cn/item/6309669816f2c2beb145f8f8.png)
+<img src="http://static.runoob.com/images/runoob-logo.png" width="50%">
 
 *I love Rosmontis forever!*
