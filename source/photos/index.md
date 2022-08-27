@@ -1,5 +1,5 @@
 ---
-title: photos
+title: 照片
 date: 2022-08-26 15:25:35
 
 ---
