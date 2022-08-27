@@ -14,4 +14,4 @@ date: 2022-08-26 09:20:52
 ###### QQ：2691209217
 <img src="http://pic.imgdb.cn/item/6309669816f2c2beb145f8f8.png" width="50%">
 
-*I love Rosmontis forever!*
+<center>*I love Rosmontis forever!*</center>
