@@ -12,6 +12,6 @@ date: 2022-08-26 09:20:52
 ###### 现居：长沙
 ###### github：[lcwx0][github]
 ###### QQ：2691209217
-<img src="http://pic.imgdb.cn/item/6309669816f2c2beb145f8f8.png" width="40%">
+<img src="http://pic.imgdb.cn/item/6309669816f2c2beb145f8f8.png" width="30%">
 
-<center>*I love Rosmontis forever!*</center>
+<center> <i>I love Rosmontis forever!</i> </center>
